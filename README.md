@@ -1,10 +1,10 @@
-# 📊 Historical Value-at-Risk (VaR) Simulation
+# Historical Value-at-Risk (VaR) Simulation
 
 This project implements a Historical Simulation approach to estimate Value-at-Risk (VaR) for a portfolio of stocks using Python. It includes data retrieval, portfolio construction, P&L simulation, VaR calculation, violation analysis, and interactive visualizations.
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Downloads historical stock data using `yfinance`
 - ✅ Computes portfolio returns from multiple assets
@@ -14,7 +14,7 @@ This project implements a Historical Simulation approach to estimate Value-at-Ri
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 - Log Returns & Portfolio Aggregation  
 - Historical Simulation for VaR  
@@ -23,7 +23,7 @@ This project implements a Historical Simulation approach to estimate Value-at-Ri
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠 Usage
+## Usage
 
 ```bash
 python var_simulation.py
@@ -54,14 +54,14 @@ jupyter notebook VaR_Simulation.ipynb
 
 ---
 
-## 🔬 Evaluation Metrics
+## Evaluation Metrics
 
 * Violation Rate (actual vs. expected)
 * Optional: Kupiec’s Proportion of Failures test
 
 ---
 
-## 📚 Requirements
+## Requirements
 
 * `yfinance`
 * `numpy`
@@ -72,13 +72,13 @@ jupyter notebook VaR_Simulation.ipynb
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and improvements are welcome!
 Please open an issue or submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
