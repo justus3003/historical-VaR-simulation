@@ -6,11 +6,11 @@ This project implements a Historical Simulation approach to estimate Value-at-Ri
 
 ## Features
 
-- ✅ Downloads historical stock data using `yfinance`
-- ✅ Computes portfolio returns from multiple assets
-- ✅ Estimates 95% and 99% Historical VaR
-- ✅ Detects and visualizes VaR violations
-- ✅ Interactive Plotly visualizations
+- Downloads historical stock data using `yfinance`
+- Computes portfolio returns from multiple assets
+- Estimates 95% and 99% Historical VaR
+- Detects and visualizes VaR violations
+- Interactive Plotly visualizations
 
 ---
 
